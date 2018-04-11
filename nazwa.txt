@@ -3,4 +3,4 @@ zajêcia z GIT
 test konfliktu
 drugi commit
 
-Damian Szczeœniak
+Damian "dupa nie kierownik" Szczeœniak
